@@ -406,13 +406,6 @@
         "withr"
       ]
     },
-    "gauntlet": {
-      "Package": "gauntlet",
-      "Version": "0.1.0",
-      "Source": "unknown",
-      "Hash": "080121ed9a7c054abcc8cfeb88b9ec55",
-      "Requirements": []
-    },
     "generics": {
       "Package": "generics",
       "Version": "0.1.2",
