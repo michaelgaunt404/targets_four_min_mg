@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+agg|stem|9fcd8b6ca73f7fe3|ad1ec8d83beb53aa|1885fa08707faaba|-1162167933||t19243.8135343507s|d83a9a08fd5cc06e|336|rds|local|vector|||0.03||
+agggg|function|b947a73f83581db2|||||||||||||||
+data|stem|f7a05f705cf8bad4|4525b922227c51ac|a4ae4ec3425bb17a|1588979285||t19243.7309712449s|defe9c62cd939889|1361|rds|local|vector|||0.46||
+file|stem|5eeca229bd880dc4|c1264e3ba9590f4d|4e3739ef91745af0|-1301001980|C:/Users/USMG687637/Documents/070_repos/00_burner/targets_four_min_mg/./data/data_new.csv|t19243.7293818803s|8c439fc2ec310596|3095|file|local|vector|||1.3|package tibble was built under R version 4.1.3. package tidyverse was built under R version 4.1.3. package ggplot2 was built under R version 4.1.3. package tidyr was built under R version 4.1.3. package readr was built under R version 4.1.3. package dplyr was built under R version 4.1.3. package forcats was built under R version 4.1.1|
+fit_model|function|982677e5c5b1c4d7|||||||||||||||
+get_data|function|caaab029510d896a|||||||||||||||
+model|stem|2ed2ac1c3e0c35ba|f3249b4ecf290e96|c8806a44e72516e0|1816327236||t19243.7309714523s|833ca7f0b41e711e|112|rds|local|vector|||0.02||
+plot|stem|c24dc4af53336247|1239c97928298b18|b1ff57990dee9dfc|1931196220||t19243.7309721272s|5c23bbd67b11a9ee|40864|rds|local|vector|||0.02||
+plot_model|function|53e93a3f92656367|||||||||||||||
+report|stem|f8e2471d72c9f465|f9fbf517228449f8|ef46db3751d8e999|-237041703||t19249.775376918s|013d2ea9b87d37af|62|rds|local|vector|||0.09||
