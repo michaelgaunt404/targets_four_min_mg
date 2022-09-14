@@ -1,0 +1,11 @@
+name|type|data|command|depend|seed|path|time|size|bytes|format|repository|iteration|parent|children|seconds|warnings|error
+agg|stem|49cd34e903245945|ad1ec8d83beb53aa|bdca54802fcd4e06|-1162167933||t19249.8396723729s|29b7562759c60885|336|rds|local|vector|||0.029||
+agggg|function|b947a73f83581db2|||||||||||||||
+data|stem|a712cbf9d9d34dd3|4525b922227c51ac|f9c7e9a1c1fc3e8c|1588979285||t19249.8396719562s|be0dbe6e1dd35c73|1363|rds|local|vector|||0.18||
+file|stem|ac8d538709e7f63b|c1264e3ba9590f4d|4e3739ef91745af0|-1301001980|/home/runner/work/targets_four_min_mg/targets_four_min_mg/./data/data_new.csv|t19249.8225561786s|8569c04d1720a57c|2938|file|local|vector|||0.001||
+fit_model|function|982677e5c5b1c4d7|||||||||||||||
+get_data|function|caaab029510d896a|||||||||||||||
+model|stem|0a84fbd561b313e2|f3249b4ecf290e96|6858ce5fd023189d|1816327236||t19249.8396730211s|ebd1054f3f481e45|110|rds|local|vector|||0.049||
+plot|stem|700c75fb8ff49f4b|1239c97928298b18|c31f7b40779890f8|1931196220||t19249.8396735303s|79b51c4820513492|40864|rds|local|vector|||0.015||
+plot_model|function|53e93a3f92656367|||||||||||||||
+report|stem|f4114c79603fdfd4|f9fbf517228449f8|ef46db3751d8e999|-237041703||t19249.8396695024s|e0224cf10db1a05d|62|rds|local|vector|||0.022||

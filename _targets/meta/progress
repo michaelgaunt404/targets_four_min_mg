@@ -1,0 +1,13 @@
+name|type|parent|branches|progress
+report|stem|report|0|started
+report|stem|report|0|built
+file|stem|file|0|started
+file|stem|file|0|built
+data|stem|data|0|started
+data|stem|data|0|built
+agg|stem|agg|0|started
+agg|stem|agg|0|built
+model|stem|model|0|started
+model|stem|model|0|built
+plot|stem|plot|0|started
+plot|stem|plot|0|built
